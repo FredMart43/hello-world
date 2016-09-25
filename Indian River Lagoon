@@ -1,0 +1,14 @@
+We've been working on projects to remediate and restore the Indian River Lagoon on Florida's East Coast, in the 'Space Coast' and 'Treasure 
+Coast' areas.  We work with as many of the stakeholders as want to work on this.  We have had major algae blooms, fish kills, and sea-grass 
+losses since Tropical Storm Fay in 2005 dropped 25" of rain on us in ten days and washed huge amounts of fertilizer and organic matter off 
+the land and into the lagoon.  Storm water, point sources like the 1.33M gallons of raw sewage that came from a broken pipe in Indian 
+Harbor Beach this week, and seepage from individual homes' septic systems, put hundreds of tons of Nitrogen and tens of tons of phosphates
+in to lagoon each year.  Major discharges of Lake Okeechobee water via the St. Lucie River this year Helped make this a banner year for 
+blue-green algae (Cyanobacteria).  Prevention has to be a major focus, but remediation and restortation have to be planned and carried out 
+alongside prevention.  Take a look at the websites for the Indian River Lagoon Council and for Brevard County Natural Resources 
+Management.  There are good summaries of the issues, images, and supporting materials on them.
+For our part, we are doing some hardware and software development for sensing conditions in the lagoon.  Working with Cura Oceanus, a local 
+non-profit, reaching out to the middle- and high-school students who are interested in STEM subjects appears to have two good outcomes:
+STEM education with hands-on sensing, data collection, and data interpreting projects; and commitment by our youngsters to preserving this 
+unique and valuable environment.
+Tools include Raspberry Pi platforms with Raspian and Python software.  I build hardware prototypes.
